@@ -8,6 +8,7 @@ using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 using FunctionApp1.Services;
 using FunctionApp1.Models;
+using System.Net.Mail;
 
 public class SendEmailFunction
 {
@@ -23,18 +24,17 @@ public class SendEmailFunction
         [HttpTrigger(AuthorizationLevel.Function, "post", Route = null)] HttpRequest req,
         ILogger log)
     {
-        log.LogInformation("Processing email request...");
-
-        string requestBody = await new StreamReader(req.Body).ReadToEndAsync();
-        EmailMessage emailMessage = JsonConvert.DeserializeObject<EmailMessage>(requestBody);
-
-        if (emailMessage == null || emailMessage.To.Count == 0)
-        {
-            return new BadRequestObjectResult("Invalid email request.");
-        }
-
         try
         {
+            log.LogInformation("Processing email request...");
+
+            string requestBody = await new StreamReader(req.Body).ReadToEndAsync();
+            EmailMessage emailMessage = JsonConvert.DeserializeObject<EmailMessage>(requestBody);
+
+            if (emailMessage == null || emailMessage.To.Count == 0)
+            {
+                return new BadRequestObjectResult("Invalid email request.");
+            }
             await _emailService.SendEmailAsync(emailMessage);
             return new OkObjectResult("Email sent successfully!");
         }

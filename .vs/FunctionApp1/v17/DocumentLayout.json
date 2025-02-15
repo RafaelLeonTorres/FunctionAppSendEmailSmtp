@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "F:\\Respaldo\\Respaldo\\Cursos\\FunctionApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6F4785AE-F848-4E62-BDCD-7B129F08F4C1}|FunctionApp1\\FunctionApp1.csproj|f:\\respaldo\\respaldo\\cursos\\functionapp1\\functionapp1\\functionapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6F4785AE-F848-4E62-BDCD-7B129F08F4C1}|FunctionApp1\\FunctionApp1.csproj|solutionrelative:functionapp1\\functionapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4785AE-F848-4E62-BDCD-7B129F08F4C1}|FunctionApp1\\FunctionApp1.csproj|f:\\respaldo\\respaldo\\cursos\\functionapp1\\functionapp1\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F4785AE-F848-4E62-BDCD-7B129F08F4C1}|FunctionApp1\\FunctionApp1.csproj|solutionrelative:functionapp1\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4785AE-F848-4E62-BDCD-7B129F08F4C1}|FunctionApp1\\FunctionApp1.csproj|f:\\respaldo\\respaldo\\cursos\\functionapp1\\functionapp1\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F4785AE-F848-4E62-BDCD-7B129F08F4C1}|FunctionApp1\\FunctionApp1.csproj|solutionrelative:functionapp1\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4785AE-F848-4E62-BDCD-7B129F08F4C1}|FunctionApp1\\FunctionApp1.csproj|f:\\respaldo\\respaldo\\cursos\\functionapp1\\functionapp1\\services\\smtpemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4785AE-F848-4E62-BDCD-7B129F08F4C1}|FunctionApp1\\FunctionApp1.csproj|solutionrelative:functionapp1\\services\\smtpemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6F4785AE-F848-4E62-BDCD-7B129F08F4C1}|FunctionApp1\\FunctionApp1.csproj|f:\\respaldo\\respaldo\\cursos\\functionapp1\\functionapp1\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F4785AE-F848-4E62-BDCD-7B129F08F4C1}|FunctionApp1\\FunctionApp1.csproj|solutionrelative:functionapp1\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +27,12 @@
       "RelativeMoniker": "D:0:0:{6F4785AE-F848-4E62-BDCD-7B129F08F4C1}|FunctionApp1\\FunctionApp1.csproj|solutionrelative:functionapp1\\models\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F4785AE-F848-4E62-BDCD-7B129F08F4C1}|FunctionApp1\\FunctionApp1.csproj|f:\\respaldo\\respaldo\\cursos\\functionapp1\\functionapp1\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6F4785AE-F848-4E62-BDCD-7B129F08F4C1}|FunctionApp1\\FunctionApp1.csproj|solutionrelative:functionapp1\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6F4785AE-F848-4E62-BDCD-7B129F08F4C1}|FunctionApp1\\FunctionApp1.csproj|f:\\respaldo\\respaldo\\cursos\\functionapp1\\functionapp1\\properties\\servicedependencies.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F4785AE-F848-4E62-BDCD-7B129F08F4C1}|FunctionApp1\\FunctionApp1.csproj|solutionrelative:functionapp1\\properties\\servicedependencies.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4785AE-F848-4E62-BDCD-7B129F08F4C1}|FunctionApp1\\FunctionApp1.csproj|f:\\respaldo\\respaldo\\cursos\\functionapp1\\functionapp1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F4785AE-F848-4E62-BDCD-7B129F08F4C1}|FunctionApp1\\FunctionApp1.csproj|solutionrelative:functionapp1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,50 +42,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Function1.cs",
-              "DocumentMoniker": "F:\\Respaldo\\Respaldo\\Cursos\\FunctionApp1\\FunctionApp1\\Function1.cs",
-              "RelativeDocumentMoniker": "FunctionApp1\\Function1.cs",
-              "ToolTip": "F:\\Respaldo\\Respaldo\\Cursos\\FunctionApp1\\FunctionApp1\\Function1.cs",
-              "RelativeToolTip": "FunctionApp1\\Function1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T16:38:03.296Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmailMessage.cs",
-              "DocumentMoniker": "F:\\Respaldo\\Respaldo\\Cursos\\FunctionApp1\\FunctionApp1\\Models\\EmailMessage.cs",
-              "RelativeDocumentMoniker": "FunctionApp1\\Models\\EmailMessage.cs",
-              "ToolTip": "F:\\Respaldo\\Respaldo\\Cursos\\FunctionApp1\\FunctionApp1\\Models\\EmailMessage.cs",
-              "RelativeToolTip": "FunctionApp1\\Models\\EmailMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T16:38:16.307Z",
+              "DocumentIndex": 0,
+              "Title": "FunctionApp1",
+              "DocumentMoniker": "F:\\Respaldo\\Respaldo\\Cursos\\FunctionApp1\\FunctionApp1\\FunctionApp1.csproj",
+              "RelativeDocumentMoniker": "FunctionApp1\\FunctionApp1.csproj",
+              "ToolTip": "F:\\Respaldo\\Respaldo\\Cursos\\FunctionApp1\\FunctionApp1\\FunctionApp1.csproj",
+              "RelativeToolTip": "FunctionApp1\\FunctionApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-15T17:52:59.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "host.json",
+              "DocumentMoniker": "F:\\Respaldo\\Respaldo\\Cursos\\FunctionApp1\\FunctionApp1\\host.json",
+              "RelativeDocumentMoniker": "FunctionApp1\\host.json",
+              "ToolTip": "F:\\Respaldo\\Respaldo\\Cursos\\FunctionApp1\\FunctionApp1\\host.json",
+              "RelativeToolTip": "FunctionApp1\\host.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-15T15:31:31.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "local.settings.json",
               "DocumentMoniker": "F:\\Respaldo\\Respaldo\\Cursos\\FunctionApp1\\FunctionApp1\\local.settings.json",
               "RelativeDocumentMoniker": "FunctionApp1\\local.settings.json",
               "ToolTip": "F:\\Respaldo\\Respaldo\\Cursos\\FunctionApp1\\FunctionApp1\\local.settings.json",
               "RelativeToolTip": "FunctionApp1\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-15T15:29:22.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailMessage.cs",
+              "DocumentMoniker": "F:\\Respaldo\\Respaldo\\Cursos\\FunctionApp1\\FunctionApp1\\Models\\EmailMessage.cs",
+              "RelativeDocumentMoniker": "FunctionApp1\\Models\\EmailMessage.cs",
+              "ToolTip": "F:\\Respaldo\\Respaldo\\Cursos\\FunctionApp1\\FunctionApp1\\Models\\EmailMessage.cs",
+              "RelativeToolTip": "FunctionApp1\\Models\\EmailMessage.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T15:22:29.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "F:\\Respaldo\\Respaldo\\Cursos\\FunctionApp1\\FunctionApp1\\Function1.cs",
+              "RelativeDocumentMoniker": "FunctionApp1\\Function1.cs",
+              "ToolTip": "F:\\Respaldo\\Respaldo\\Cursos\\FunctionApp1\\FunctionApp1\\Function1.cs",
+              "RelativeToolTip": "FunctionApp1\\Function1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T15:22:26.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmtpEmailService.cs",
+              "DocumentMoniker": "F:\\Respaldo\\Respaldo\\Cursos\\FunctionApp1\\FunctionApp1\\Services\\SmtpEmailService.cs",
+              "RelativeDocumentMoniker": "FunctionApp1\\Services\\SmtpEmailService.cs",
+              "ToolTip": "F:\\Respaldo\\Respaldo\\Cursos\\FunctionApp1\\FunctionApp1\\Services\\SmtpEmailService.cs",
+              "RelativeToolTip": "FunctionApp1\\Services\\SmtpEmailService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:07:29.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "serviceDependencies.local.json",
+              "DocumentMoniker": "F:\\Respaldo\\Respaldo\\Cursos\\FunctionApp1\\FunctionApp1\\Properties\\serviceDependencies.local.json",
+              "RelativeDocumentMoniker": "FunctionApp1\\Properties\\serviceDependencies.local.json",
+              "ToolTip": "F:\\Respaldo\\Respaldo\\Cursos\\FunctionApp1\\FunctionApp1\\Properties\\serviceDependencies.local.json",
+              "RelativeToolTip": "FunctionApp1\\Properties\\serviceDependencies.local.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-07T16:37:13.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T18:25:27.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\Respaldo\\Respaldo\\Cursos\\FunctionApp1\\FunctionApp1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FunctionApp1\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\Respaldo\\Respaldo\\Cursos\\FunctionApp1\\FunctionApp1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FunctionApp1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-13T18:25:21.414Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
